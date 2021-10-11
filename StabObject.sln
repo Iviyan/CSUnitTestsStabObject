@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StabObject", "StabObject\StabObject.csproj", "{966BC602-9E0C-4533-A4ED-357D9F077407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D012F206-0483-49B7-BCF7-C33DB97C9017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966BC602-9E0C-4533-A4ED-357D9F077407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966BC602-9E0C-4533-A4ED-357D9F077407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966BC602-9E0C-4533-A4ED-357D9F077407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966BC602-9E0C-4533-A4ED-357D9F077407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D012F206-0483-49B7-BCF7-C33DB97C9017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D012F206-0483-49B7-BCF7-C33DB97C9017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D012F206-0483-49B7-BCF7-C33DB97C9017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D012F206-0483-49B7-BCF7-C33DB97C9017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
